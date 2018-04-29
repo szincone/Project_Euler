@@ -9,4 +9,3 @@ def mults(x, y):
         
 
 mults(3,5)
- 
